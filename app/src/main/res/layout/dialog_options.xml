@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="15dp"
+    android:paddingTop="8dp"
+    android:paddingRight="15dp"
+    android:paddingBottom="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <Button
+        android:textColor="#dbb619"
+        android:id="@+id/id0007"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="选择这个软件"/>
+    <Button
+        android:textColor="#dbb619"
+        android:id="@+id/id0008"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="打开这个软件"/>
+    <Button
+        android:id="@+id/id0009"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="打开详情"/>
+    <Button
+        android:id="@+id/id000a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="关闭"
+        style="?android:attr/buttonStyleSmall"/>
+</LinearLayout>

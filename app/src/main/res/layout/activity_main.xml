@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/id0004"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:hint="请输入搜索的程序"/>
+    <com.qingyu.rm.widget.SwipeRefreshLayout
+        android:id="@+id/id0005"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id0004">
+        <ListView
+            android:id="@+id/id0006"
+            android:paddingBottom="6dp"
+            android:scrollbars="none"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="2dp"
+            android:layout_below="@+id/id0004"
+            android:fastScrollEnabled="true"
+            android:fastScrollAlwaysVisible="false"/>
+    </com.qingyu.rm.widget.SwipeRefreshLayout>
+</RelativeLayout>

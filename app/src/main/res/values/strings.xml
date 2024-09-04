@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str0000">反射大师</string>
+    <string name="str0001">Tip1：本软件是一个Xposed模块，需要在框架管理器激活后使用\n\nTip2：如果打开软件后发现调不出六芒星，你可以试着在设置打开反禁用XP，但这个是实验性功能，在高于安卓7.1的系统中开启后可能会造成闪退\n\nTip3：按下音量+(-)可以调出六芒星\n\nTip4：写出Dex的功能仅支持小于安卓8.0的系统\n\nTip5：本软件绿色免费，禁止二改贩卖，使用第三方提供的反射大师造成的一切后果与作者无关\n\nCopyright © 2017-2019 qyma.yyy@qq.com All Rights Reserved</string>
+</resources>

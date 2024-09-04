@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="style0000" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">@color/color0000</item>
+        <item name="android:colorPrimaryDark">@color/color0000</item>
+        <item name="android:colorAccent">@color/color0004</item>
+        <item name="android:navigationBarColor">@color/color0000</item>
+    </style>
+</resources>

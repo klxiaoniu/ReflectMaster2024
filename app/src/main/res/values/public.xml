@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="mipmap" name="mipmap0000" id="0x7f020000" />
+    <public type="layout" name="layout0000" id="0x7f030000" />
+    <public type="layout" name="layout0001" id="0x7f030001" />
+    <public type="layout" name="layout0002" id="0x7f030002" />
+    <public type="layout" name="layout0003" id="0x7f030003" />
+    <public type="color" name="color0000" id="0x7f040000" />
+    <public type="color" name="color0001" id="0x7f040001" />
+    <public type="color" name="color0002" id="0x7f040002" />
+    <public type="color" name="color0003" id="0x7f040003" />
+    <public type="color" name="color0004" id="0x7f040004" />
+    <public type="string" name="str0000" id="0x7f050000" />
+    <public type="string" name="str0001" id="0x7f050001" />
+    <public type="style" name="style0000" id="0x7f060000" />
+    <public type="menu" name="menu0000" id="0x7f070000" />
+    <public type="id" name="id0000" id="0x7f080000" />
+    <public type="id" name="id0001" id="0x7f080001" />
+    <public type="id" name="id0002" id="0x7f080002" />
+    <public type="id" name="id0003" id="0x7f080003" />
+    <public type="id" name="id0004" id="0x7f080004" />
+    <public type="id" name="id0005" id="0x7f080005" />
+    <public type="id" name="id0006" id="0x7f080006" />
+    <public type="id" name="id0007" id="0x7f080007" />
+    <public type="id" name="id0008" id="0x7f080008" />
+    <public type="id" name="id0009" id="0x7f080009" />
+    <public type="id" name="id000a" id="0x7f08000a" />
+    <public type="id" name="id000b" id="0x7f08000b" />
+    <public type="id" name="id000c" id="0x7f08000c" />
+    <public type="id" name="id000d" id="0x7f08000d" />
+    <public type="id" name="id000e" id="0x7f08000e" />
+    <public type="id" name="id000f" id="0x7f08000f" />
+    <public type="id" name="id0010" id="0x7f080010" />
+    <public type="id" name="id0011" id="0x7f080011" />
+    <public type="id" name="id0012" id="0x7f080012" />
+    <public type="id" name="id0013" id="0x7f080013" />
+    <public type="id" name="id0014" id="0x7f080014" />
+    <public type="id" name="id0015" id="0x7f080015" />
+    <public type="id" name="id0016" id="0x7f080016" />
+    <public type="id" name="id0017" id="0x7f080017" />
+    <public type="id" name="id0018" id="0x7f080018" />
+    <public type="id" name="id0019" id="0x7f080019" />
+    <public type="id" name="id001a" id="0x7f08001a" />
+    <public type="id" name="id001b" id="0x7f08001b" />
+    <public type="id" name="id001c" id="0x7f08001c" />
+    <public type="id" name="id001d" id="0x7f08001d" />
+</resources>
